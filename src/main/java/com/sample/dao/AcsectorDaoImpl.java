@@ -7,6 +7,7 @@ public class AcsectorDaoImpl implements CroDao {
 
 	public void readData() {
 		System.out.println("Reading Data AcsectorDaoImpl");
+		System.out.println("Sample");
 
 	}
 
