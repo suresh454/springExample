@@ -7,6 +7,7 @@ public class EquipmentDaoImpl implements CroDao {
 
 	public void readData() {
 		System.out.println("Reading Data EquipmentDaoImpl");
+		System.out.println("hello");
 
 	}
 
